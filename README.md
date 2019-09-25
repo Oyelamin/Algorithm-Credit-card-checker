@@ -1,2 +1,2 @@
-# Credit-card-checker
-Checks if credit card is valid or invalid
+# Credit-card-checker using the Luhn Algorithm
+A simple algorithm that checks if a credit card is valid or invalid
