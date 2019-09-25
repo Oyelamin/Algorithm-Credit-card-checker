@@ -35,9 +35,9 @@ def luhn(card):
     total = str(int(total))
     
     if total[-1] == "0":
-        print(total)
+        return True
     else:
-        print(total)
+        return False
 
-
+#Give value in 4 unit numbers seperated with a whitespace
 luhn("1566 5666 6663 6639")
